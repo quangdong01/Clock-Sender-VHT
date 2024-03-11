@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/main.qml</file>
+        <file>Resource/ClockSender.qml</file>
+        <file>Resource/Common/Button.qml</file>
+    </qresource>
+</RCC>
